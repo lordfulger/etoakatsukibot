@@ -1,1 +1,1 @@
-worker: node etoakatsukibot
+worker: python etoakatsukibot
