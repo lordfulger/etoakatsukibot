@@ -1,0 +1,14 @@
+
+{
+  "name": "Akatsuki",
+  "description": "The Akatsuki bot for the ETO MC server",
+  "version": "0.0.0",
+  "main": "etoakatsukibot.js",
+  "scripts": {
+    "start": "node etoakatsukibot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
